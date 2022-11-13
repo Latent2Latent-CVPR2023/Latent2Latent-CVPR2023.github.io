@@ -1,4 +1,4 @@
-# LAMDA Web page
+# Latent2Latent Web page
 This is the web page for the CVPR 2023 Latent2Latent submission. It contains illustrations and further results.
 
 
